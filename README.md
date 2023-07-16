@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
+I'm Mogith, and I hail from the enchanting city of Madurai, renowned for its magnificent temples and, of course, the delicious parota. Yes I'm one of those guys who started a career as mechie, but my passion for AI and ML turned me into techie.
+Cutting edge technologies and buzz around it is something that keeps me excited.
+When I'm not immersed in the world of data and algorithms, you'll find me occupied in the thrilling worlds of football and cricket. As an ardent fan of Manchester United and chennai super kings, I never miss a chance to cheer for my beloved team. 
+Moreover, on weekends you can find me playing turf futsal along with my mates which I personally prefer as a hard reboot of my physical host. (Yes I made a sys admin joke with reference of VMs ) And to top it all off, I love nothing more than sipping a steaming cup of tea while engaging in lively conversations about sports and movies. 
 <!--
 **Mogith-P-N/Mogith-P-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
