@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, Folks I'm MOGITH</h1>
 <h3 align="center">A passionate ML/AI Engineer from India</h3>
-<h5>I'm Mogith, and I hail from the enchanting city of Madurai, renowned for its magnificent temples and, of course, the delicious parota.
+<h5>I'm Mogith, and I hail from the enchanting city of Madurai, renowned for its magnificent temples and, of course, the delicious parotta.
 Yes I'm one of those guys who started a career as mechie, but my passion for AI and ML turned me into techie.
 Cutting edge technologies and buzz around it is something that keeps me excited.
 
