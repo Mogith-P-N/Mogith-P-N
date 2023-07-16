@@ -15,7 +15,7 @@ Moreover, on weekends you can find me playing turf futsal along with my mates wh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mogith-p-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mogith-p-n" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mogith-p-n-636644190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mogith-p-n" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mogithmogi3011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mogithmogi3011" height="30" width="40" /></a>
 </p>
 
